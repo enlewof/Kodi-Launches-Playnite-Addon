@@ -18,7 +18,7 @@ MSG = ADDON.getLocalizedString
 
 # Setting program constants
 WINDOWS_32_EXECUTABLE_ON_X86 = '%ProgramFiles%\\playnite\\Playnite.FullscreenApp.exe'
-WINDOWS_32_EXECUTABLE_ON_X64 = '%ProgramFiles(x86)%\\playnite\\Playnite.FullscreenApp.exe'
+WINDOWS_32_EXECUTABLE_ON_X64 = '%AppData%\\Playnite\\Playnite.FullscreenApp.exe'
 LINUX_EXECUTABLE_ON_x86_64 = '/usr/bin/playnite'
 MAC_EXECUTABLE = '~/Library/Application Support/playnite/playnite.app/Contents/MacOS/playnite_osx'
 
