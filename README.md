@@ -9,7 +9,7 @@ This Addonn was made for Kodi Krypton v17.x and higher since it takes advantage 
 
 ## What makes this addon different than others of the same kind?
 - Completely open source, hosted on [GitHub](https://github.com/hoksilato2/Kodi-Launches-Steam-Addon/blob/master/README.md#kodi-launches-steam-addon) and published under GPL v3 license
-- Created for Kodi v17 (Kripton or higher) and following  [Addon Rules](http://kodi.wiki/view/Add-on_rules)
+- Created for Kodi v17 (Krypton or higher) and following  [Addon Rules](http://kodi.wiki/view/Add-on_rules)
 - Usage of hi-res icons and images based on latest official resources
 - To find Applications/Programs paths, this addon relies on default environment variables, which exist on all operating systems. No _"registry-hack"_ programs are used for this purpose
 - No 3rd-party libraries from unknown sources or with confusing distribution licenses are used. Actually no compiled libraries/programs/binaries are required at all for this addon to work. What you see on this repository is exactly what you need to run the addon. All code is made on Python and all sources are available
